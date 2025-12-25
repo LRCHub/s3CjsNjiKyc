@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "VERY NICE",
+  "base_artist": "SEVENTEEN",
+  "createdAt": "2025-12-25T01:50:21.068845Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Very Nice Of You to Call",
+      "artist": "Aardvark",
+      "has_synced": true,
+      "path": "select/01_Very_Nice_Of_You_to_Call_Aardvark.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Very Nice Body",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/02_A_Very_Nice_Body_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nice, Nice, Very Nice",
+      "artist": "Ambrosia",
+      "has_synced": true,
+      "path": "select/03_Nice,_Nice,_Very_Nice_Ambrosia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nice, Nice, Very Nice",
+      "artist": "Ambrosia",
+      "has_synced": false,
+      "path": "select/04_Nice,_Nice,_Very_Nice_Ambrosia.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nice, Nice, Very Nice (Album Version)",
+      "artist": "Ambrosia",
+      "has_synced": true,
+      "path": "select/05_Nice,_Nice,_Very_Nice_(Album_Version)_Ambrosia.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "VERY NICE",
+      "artist": "SEVENTEEN",
+      "has_synced": true,
+      "path": "select/06_VERY_NICE_SEVENTEEN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Van Nuys (Es Very Nice)",
+      "artist": "Los Abandoned",
+      "has_synced": false,
+      "path": "select/07_Van_Nuys_(Es_Very_Nice)_Los_Abandoned.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Very Nice to Meet You",
+      "artist": "Chanmina",
+      "has_synced": true,
+      "path": "select/08_Very_Nice_to_Meet_You_Chanmina.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Very Nice Prince",
+      "artist": "Emily Blunt & Anna Kendrick",
+      "has_synced": true,
+      "path": "select/09_A_Very_Nice_Prince_Emily_Blunt_&_Anna_Kendrick.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Very Nice Prince",
+      "artist": "Anna Kendrick & Emily Blunt",
+      "has_synced": true,
+      "path": "select/10_A_Very_Nice_Prince_Anna_Kendrick_&_Emily_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Suggestion [Not A Very Nice One]",
+      "artist": "Crippled Black Phoenix",
+      "has_synced": false,
+      "path": "select/11_A_Suggestion_[Not_A_Very_Nice_One]_Crippled_Black_Phoenix.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Not a Very Nice Way...",
+      "artist": "Asmodeus",
+      "has_synced": false,
+      "path": "select/12_Not_a_Very_Nice_Way..._Asmodeus.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Very Good Very Nice",
+      "artist": "Bck feat. Galass Gueye",
+      "has_synced": true,
+      "path": "select/13_Very_Good_Very_Nice_Bck_feat._Galass_Gueye.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Very Good Very Nice",
+      "artist": "Bck, Galass Gueye",
+      "has_synced": true,
+      "path": "select/14_Very_Good_Very_Nice_Bck,_Galass_Gueye.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Very Nice Prince",
+      "artist": "Sara Bareilles feat. Phillipa Soo",
+      "has_synced": true,
+      "path": "select/15_A_Very_Nice_Prince_Sara_Bareilles_feat._Phillipa_Soo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Very Nice Prince",
+      "artist": "Sara Bareilles",
+      "has_synced": true,
+      "path": "select/16_A_Very_Nice_Prince_Sara_Bareilles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "VERY NICE",
+      "artist": "SEVENTEEN",
+      "has_synced": false,
+      "path": "select/pl_01_VERY_NICE_SEVENTEEN.txt"
+    }
+  ]
+}
